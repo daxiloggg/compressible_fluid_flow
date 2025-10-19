@@ -346,4 +346,8 @@ plt.ylim(T_min, T_max)
 
 plt.legend(loc='best')
 plt.tight_layout()
+
 plt.show()
+
+# anon, when this code was built in 2024, only God and I understood how it works
+# today, only God knows how it works
