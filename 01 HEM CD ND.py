@@ -678,4 +678,8 @@ if throat:
     print(f"Throat transition achieved at Mach {mat[throat[0],8]:.3f}")
 else:
     print("No throat transition achieved")
+
 print(f"Total iterations: {i_final}")
+
+# anon, when this code was built in 2024, only God and I understood how it works
+# today, only God knows how it works
